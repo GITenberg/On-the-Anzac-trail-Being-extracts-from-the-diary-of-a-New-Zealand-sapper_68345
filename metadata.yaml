@@ -1,11 +1,16 @@
 _repo: On-the-Anzac-trail-Being-extracts-from-the-diary-of-a-New-Zealand-sapper_68345
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68345-h/images/cover.jpg
 creator:
   author:
     agent_name: Anzac
     gutenberg_agent_id: '54717'
     url: http://www.gutenberg.org/2009/agents/54717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68345#On-the-Anzac-trail-Being-extracts-from-the-diary-of-a-New-Zealand-sapper
 gutenberg_issued: '2022-06-19'
 identifiers:
   gutenberg: '68345'
